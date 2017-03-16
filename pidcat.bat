@@ -1,0 +1,1 @@
+python D:\work\cmd\pidcat.py %1
